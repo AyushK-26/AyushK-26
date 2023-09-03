@@ -41,7 +41,7 @@
 <h2>Skills & Tools :</h2>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,html,css&perline=5">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,html,CSS,ts&perline=5">
 </p>
 
 
