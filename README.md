@@ -8,9 +8,9 @@
 <div style="display:flex">
   <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-- 👋 I am a passionate Front-end Developer
+- 👋 Passionate Developer | Enthusiastic about building impactful software.
 
-- 🌱 I am currently learning **next.js**.
+- 🌱 I am currently exploring **Java** and **DSA**.
 
 - 📫 How to reach me **ayushkhanduri2612@gmail.com**
 
