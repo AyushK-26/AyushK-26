@@ -10,7 +10,7 @@
 
 - 👋 Passionate Developer | Enthusiastic about building impactful software.
 
-- 🌱 I am currently exploring **Java** and **DSA**.
+- 🌱 I am currently exploring **WebRTC** and **DSA**.
 
 - 📫 How to reach me **ayushkhanduri2612@gmail.com**
 
