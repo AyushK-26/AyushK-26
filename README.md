@@ -18,4 +18,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AyushK-26&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=AyushK-26&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=AyushK-26&color=blueviolet)
